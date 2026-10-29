@@ -1,0 +1,4 @@
+interface:
+  display_name: "Referência Arte"
+  short_description: "Artes para Instagram com a cara do seu negócio"
+  default_prompt: "Use $referencia-arte para criar uma arte para divulgar o meu negócio."
