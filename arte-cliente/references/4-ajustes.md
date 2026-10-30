@@ -45,4 +45,6 @@ No fim de cada pedido, acrescente em `gostos.md` de 1 a 3 linhas, com a data e s
 - "2026-10-29: escolheu a opção com o prato em close; achou o fundo escuro pesado."
 - "Prefere título em letra grossa; não gosta de muitas informações na arte."
 
-Use essas anotações em todos os próximos pedidos.
+Anote sempre também qual estilo de letra e qual jeito de integrar o texto a pessoa escolheu.
+
+Use essas anotações em todos os próximos pedidos. Uma das 3 opções segue o gosto anotado, e as outras duas exploram caminhos novos.

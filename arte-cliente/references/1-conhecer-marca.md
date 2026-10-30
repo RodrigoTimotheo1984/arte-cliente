@@ -5,13 +5,13 @@ Objetivo: entender o negócio uma única vez e guardar, para nunca perguntar de 
 ## Abertura
 Diga algo como: "Antes da primeira arte, vou conhecer o seu negócio. É só desta vez e leva uns 5 minutos."
 
-Crie as pastas `marca-referencia-arte/logo`, `fotos`, `materiais` e `artes`.
+Crie as pastas `marca-arte-cliente/logo`, `fotos`, `materiais` e `artes`.
 
 ## Perguntas (uma por vez)
 1. **Nome e tipo de negócio.** Ex.: "Bar do Zé, boteco com petiscos e feijoada".
 2. **Logo.** Peça o arquivo da logo, de preferência PNG com fundo transparente ou a melhor versão que a pessoa tiver.
 3. **Materiais que a pessoa já usa.** De 2 a 6 itens: posts antigos, cardápio, foto da fachada, placa, sacola, embalagem.
-4. **Fotos reais.** Peça o produto ou prato principal, a fachada, o salão ou balcão e a equipe. Explique que são essas fotos que deixam a arte com a cara dela. Se a pessoa não tiver, siga sem elas e sugira: "da próxima vez, tire com o celular, perto da janela, com luz do dia".
+4. **Fotos reais.** Peça o produto ou prato principal, a fachada, o salão ou balcão e a equipe. Explique que essas fotos são um guia para a arte acertar o jeito do lugar e do produto, e que você vai criar cenas novas inspiradas nelas, não colar as fotos. Se a pessoa não tiver, siga sem elas e sugira: "da próxima vez, tire com o celular, perto da janela, com luz do dia".
 5. **Jeito de falar.** Opções: 1 descontraído e familiar, 2 divertido e brincalhão, 3 tradicional e caprichado, 4 sofisticado. Pergunte também se a casa tem alguma frase ou bordão próprio.
 6. **Público.** Opções: 1 famílias, 2 turma de amigos, 3 trabalhadores no almoço, 4 público jovem, 5 outro. Ela pode escolher mais de uma.
 7. **O que nunca pode aparecer.** Ex.: bebida alcoólica, certas cores, fotos de pessoas. Também pode ser "nada".
@@ -29,7 +29,7 @@ Olhe todos os arquivos e tire deles:
 - **Detalhes únicos do lugar e do produto:** é o que mais importa (ex.: "azulejo português verde", "mesa de madeira gasta", "feijoada servida no panelão de barro").
 - **Logo:** formato, cores, texto exato e em qual fundo ela aparece bem (claro ou escuro).
 
-## Confirmação
+## Confirmação (obrigatória, nunca pule)
 Mostre o resumo em linguagem simples, em até 8 linhas: "Entendi a sua marca assim: ...".
 
 Pergunte:
@@ -52,7 +52,7 @@ Detalhes únicos (lugar, produto, objetos): ...
 Jeito de falar: ...  | Frases da casa: ...
 Público: ...
 Logo: arquivo logo/<arquivo> | descrição: ... | aparece bem sobre: ...
-Fotos disponíveis: lista com o arquivo e o que aparece em cada um
+Fotos disponíveis: arquivo + o que ela ensina (ex.: "panela de ferro esmaltada laranja", "parede branca com plantas penduradas")
 Nunca usar: ...
 ```
 

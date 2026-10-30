@@ -2,8 +2,8 @@
 
 Objetivo: saber exatamente o que a arte precisa dizer, sem cansar a pessoa.
 
-## Escolha do modo
-Pergunte:
+## Escolha do modo (obrigatória, nunca pule)
+Sempre pergunte primeiro, mesmo que o pedido já pareça completo:
 
 "Como você prefere?
 1. Rápido: eu sugiro tudo e você só confirma.
@@ -40,6 +40,16 @@ Pergunte: "Viu alguma arte por aí que achou bonita? Se quiser, mande o print. S
 
 O print serve só de inspiração de clima e de organização. Nunca copie a arte, e a cara da marca vem sempre primeiro.
 
+## Como usar as fotos (obrigatório quando houver fotos ou referências)
+Depois de receber as fotos ou referências, pergunte:
+
+"Como você quer que eu use essas imagens?
+1. Crio uma cena nova inspirada nelas, com a panela, o lugar e o jeito de vocês (recomendado)
+2. Uso essas fotos de verdade na arte"
+
+## Confirmação (obrigatória, nunca pule)
+Mostre o briefing completo em um bloco curto e só siga depois do OK.
+
 ## Fechamento
 Grave o briefing confirmado em `artes/AAAA-MM-DD-assunto/briefing.md`, com:
 - objetivo;
@@ -48,6 +58,7 @@ Grave o briefing confirmado em `artes/AAAA-MM-DD-assunto/briefing.md`, com:
 - o texto exato;
 - informações;
 - o que não pode;
-- os arquivos de referência.
+- os arquivos de referência;
+- como usar as fotos (cena nova ou fotos de verdade).
 
 Depois, siga para `3-criacao.md`.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arte Cliente"
+  short_description: "Artes para Instagram com a cara do seu negócio"
+  default_prompt: "Use $arte-cliente para criar uma arte para divulgar o meu negócio."
