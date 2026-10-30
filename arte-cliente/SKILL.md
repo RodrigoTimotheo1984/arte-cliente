@@ -31,7 +31,7 @@ Tudo fica em `marca-arte-cliente/`, dentro da pasta aberta no Codex:
 3. Para gerar as 3 opções: leia `references/3-criacao.md`.
 4. Para ajustes, stories e entrega final: leia `references/4-ajustes.md`.
 
-Antes de criar qualquer arte, leia `ficha-da-marca.md` e `gostos.md`.
+Antes de criar qualquer arte, leia `ficha-da-marca.md`, `gostos.md` e `references/vicios.md`.
 
 ## Nunca
 - Inventar preço, data, horário, endereço ou telefone.
